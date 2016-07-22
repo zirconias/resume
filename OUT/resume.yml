@@ -17,6 +17,10 @@ basics:
       network: GitHub
       username: zirconias
       url: 'https://github.com/zirconias'
+    -
+      network: Linkedin
+      username: zirconias
+      url: 'https://dz.linkedin.com/in/islamed'
 work:
   -
     company: ICOSNET
