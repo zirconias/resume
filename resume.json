@@ -1,0 +1,289 @@
+{
+
+  "name": "Islam Mohamed Drissi",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+    "label": "Senior Developer",
+    "characterClass": "Programmer",
+    "brief": "**Full-stack software developer with 4+ years industry experience** specializing in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games",
+    "image": "../islam.jpg",
+    "quote": "It always seems impossible until it's done."
+  },
+
+  "contact": {
+    "website": "http://yes.imdrissi.com",
+    "phone": "+213-558-100-548",
+    "email": "islam.drissi@gmail.com",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "+213-558-100-548"
+      },
+      {
+        "label": "Work Phone",
+        "flavor": "phone",
+        "value": "+213-770-274-484"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "i.slam.drissi@gmail.com"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "lot el khir N 187",
+    "city": "Baba Hassen",
+    "region": "Algiers",
+    "code": "16081",
+    "country": "DZ"
+  },
+
+  "projects": [
+  ],
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "zirconias",
+      "url": "https://github.com/zirconias"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "4+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "ICOSNET",
+        "url": "https://icosnet.com/",
+        "position": "Java ee developer",
+        "summary": "In charge of developping web and mobile applications. using mainly **JAVA** programming language and other technologies when it fits our needs ( php and cms/ javascript).",
+        "start": "2014-06",
+        "keywords": ["Agile","JAVA","JEE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
+        "highlights": [
+          "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready( java ee, android, mysql, jax-ws web services).",
+          "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX ( java ee, android, mysql, jax-ws web services)",
+          "Developed tooling and stand-alone applications to connect to other infrastructure products(crm, charing/billing, ticketting).",
+          "Developed and maintained company e-commerce website ( wordpress and woocommerce)."
+        ]
+      },
+
+      {
+        "employer": "ASSA ASSOCIATES",
+        "url": "https://assa-associates.com",
+        "position": "CRM Consultant/Developer",
+        "summary": "Developer on numerous projects being  oracle peoplesoft crm technical consultant(UI, Webservices,jobs,scripts) and software developer.",
+        "start": "2012-08",
+        "end": "2014-06",
+        "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java","web","tma"],
+        "highlights": [
+          "Maintained and developed UI and web services for peoplesoft crm( oracle ,toad, peoplecode, soapui).",
+          "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm (java, esb talend, oracle 11g).",
+          "Developed hybrid mobile application for med-it attendies (using sencha mobile)."
+        ]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Faculty of Science and Technology Settat,Morocco",
+        "title": "Bachelor Information Technology",
+        "area": "JavaEE developer",
+        "url": "https://www.fsts.ac.ma/",
+        "start": "2009-09",
+        "end": "2010-07",
+        "grade": "Java ee developer",
+        "summary": "",
+        "curriculum": ["Java ee", "oracle database", "project management"]
+      },
+
+      {
+        "institution": "Institute of technology, bouznika,Morocco",
+        "title": "Associate degree information Technology",
+        "area": "software developer",
+        "url": "https://http://www.ofpptmaroc.com/ista-bouznika",
+        "start": "2007-09",
+        "end": "2009-06",
+        "grade": "Associate degree, software developer",
+        "summary": "",
+        "curriculum": ["algorithm", "java", ".NET","rdbms"]
+      }
+    ]
+
+  },
+
+  "affiliation": {
+  },
+
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "It challenge",
+        "url": "https://www.facebook.com/events/526574217525405/",
+        "start": "2016-04",
+        "end": "2016-04",
+        "summary": "Smart and passionate people disposed with best tools and approaches taking giant leaps toward creating a business.",
+        "highlights": ["refining ideas", "coach and assist students."]
+      },
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "Start-hack",
+        "url": "http://start-hack.com",
+        "start": "2016-04",
+        "end": "2016-04",
+        "summary": "A CLEVER SOLUTION TO A TRICKY PROBLEM.",
+        "highlights": ["we provide the necessary tools & materials in order to teach participants useful skills, introduce them to new technologies and push them to innovate in order to make the best hardware project."]
+      },
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "Hard Innovation",
+        "url": "https://www.facebook.com/hardinnovation/",
+        "start": "2015-12",
+        "end": "2015-12",
+        "summary": "Giving access to the rich development resources, with the goal of producing a prototype application.",
+        "highlights": ["refining ideas.","coach and assist students"]
+      }
+    ]
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name":"Java",
+        "level":"advanced",
+        "skills":[
+          "spring / spring boot",
+          "jax-rs jax-ws",
+          "jersy","jms","jpa / hibernate",
+          "android"
+        ]
+      },
+      {
+        "name":"Soa / Middleware",
+        "level":"advanced",
+        "skills":[
+          "esb","talend","mulesoft","microservices","rest/soap","messaging"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "advanced",
+        "skills": [
+          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL", "Oracle", "NoSQL", "elasticsearch"
+        ]
+      },
+      {
+        "name": "Environment / Infrastructure and Ops",
+        "level": "intermediate",
+        "skills": [
+          "Jenkins", "Docker", "spring cloud"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "beginner",
+        "skills": [
+          "Agile",  "JIRA", "GitHub", "Unified Process", "MS Project"
+        ]
+      }
+    ]
+  },
+
+  "samples": [
+  ],
+
+  "writing": [
+  ],
+
+  "reading": [
+  ],
+
+  "speaking": [
+  ],
+
+  "recognition": [
+  ],
+
+  "references": [
+  ],
+
+  "testimonials": [
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Intermediate",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "French",
+      "level": "Native speaker",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "level": "Native speaker",
+      "fluency": "Native speaker"
+    }
+  ],
+
+  "extracurricular": [
+  ],
+
+  "governance": [
+  ],
+
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [ "star wars", "ferrets"]
+    },
+    {
+      "name": "sport",
+      "keywords": [ "football", "basketball","tennis"]
+    },
+    {
+      "name": "Technology",
+      "keywords": [ "geeking", "reading"]
+    }
+  ]
+
+
+}

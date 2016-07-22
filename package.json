@@ -1,0 +1,27 @@
+{
+  "name": "Islam-resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "dependencies": {
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-stackoverflow": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zirconias/resume"
+  },
+  "scripts": {
+    "test": "hackmyresume VALIDATE resume.json",
+    "analyze":"hackmyresume ANALYZE resume.json",
+    "build": "hackmyresume BUILD resume.json to OUT/resume.all",
+    "stack": "hackmyresume BUILD resume.json to OUT/resume.all -t node_modules/jsonresume-theme-stackoverflow"
+  },
+  "keywords": [
+    "hackmyresume",
+    "resume",
+    "personal"
+  ],
+  "author": "Islam Drissi",
+  "license": "ISC"
+}
