@@ -60,7 +60,7 @@
     {
       "label": "Linkedin",
       "network": "Linkedin",
-      "user": "zirconias",
+      "user": "islam mohamed drissi",
       "url": "https://dz.linkedin.com/in/islamed"
     }
   ],
@@ -77,6 +77,7 @@
         "position": "Java ee developer",
         "summary": "In charge of developping web and mobile applications. using mainly **JAVA** programming language and other technologies when it fits our needs ( php and cms/ javascript).",
         "start": "2014-06",
+        "end":"2016-09-22",
         "keywords": ["Agile","JAVA","JEE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
         "highlights": [
           "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready( java ee, android, mysql, jax-ws web services).",
