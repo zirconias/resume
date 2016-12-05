@@ -8,7 +8,7 @@
   },
 
   "info": {
-    "label": "Senior Developer",
+    "label": "Experienced Developer",
     "characterClass": "Programmer",
     "brief": "**Full-stack software developer with 4+ years industry experience** specializing in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games",
     "image": "../islam.jpg",
@@ -70,20 +70,31 @@
     "summary": "4+ years industry IT and software development experience.",
 
     "history": [
-
+      {
+        "employer": "IMAGINE PARTNERS",
+        "url": "https://imaginepartners.com/",
+        "position": "Java ee developer",
+        "summary": "developping and maintaining bpmn solution. using **JAVA JEE**  and **ACTIVITI**",
+        "start": "2016-10",
+        "end":"",
+        "keywords": ["Agile","JAVA","JEE","JSF","REST","HIBERNATE","FLYWAY","PRIMEFACES","MySQL","REDMINE","javascript","DEVOPS","GITLAB","DOCKER"],
+        "highlights": [
+          "**IMAGINE WORKFLOW** is a workflow platform application that has BPMN/FORM BUILDER capabilities (**java ee, jsf primefaces, hibernate, flyway, docker, gitlab, devops, mysql, web services**)"
+        ]
+      },
       {
         "employer": "ICOSNET",
         "url": "https://icosnet.com/",
         "position": "Java ee developer",
-        "summary": "In charge of developping web and mobile applications. using mainly **JAVA** programming language and other technologies when it fits our needs ( php and cms/ javascript).",
+        "summary": "In charge of developping web and mobile applications. using mainly **JAVA** programming language and other technologies when it fits our needs (php and cms/ javascript).",
         "start": "2014-06",
         "end":"2016-09-22",
         "keywords": ["Agile","JAVA","JEE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
         "highlights": [
-          "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready( java ee, android, mysql, jax-ws web services).",
-          "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX ( java ee, android, mysql, jax-ws web services)",
+          "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready(**java ee, android, mysql, jax-ws web services**).",
+          "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX (**java ee, android, mysql, jax-ws web services**)",
           "Developed tooling and stand-alone applications to connect to other infrastructure products(crm, charing/billing, ticketting).",
-          "Developed and maintained company e-commerce website ( wordpress and woocommerce)."
+          "Developed and maintained company e-commerce website (wordpress and woocommerce)."
         ]
       },
 
@@ -96,8 +107,8 @@
         "end": "2014-06",
         "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java","web","tma"],
         "highlights": [
-          "Maintained and developed UI and web services for peoplesoft crm( oracle ,toad, peoplecode, soapui).",
-          "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm (java, esb talend, oracle 11g).",
+          "Maintained and developed UI and web services for peoplesoft crm(**oracle 10g, tuxedo bea, web services, toad, peoplecode, soapui**).",
+          "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm (**java, esb talend, oracle 11g**).",
           "Developed hybrid mobile application for med-it attendies (using sencha mobile)."
         ]
       }
