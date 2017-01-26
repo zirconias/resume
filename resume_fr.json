@@ -1,0 +1,311 @@
+{
+
+  "name": "Islam Mohamed Drissi",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+    "label": "Developpeur Java EE",
+    "characterClass": "Programmer",
+    "brief": "**Developpeur Java EE, 5 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',les middlewares et l'industrialisation de livraison (dev ops).",
+    "image": "../islam.jpg",
+    "quote": "It always seems impossible until it's done."
+  },
+
+  "contact": {
+    "website": "http://yes.imdrissi.com",
+    "phone": "+213-558-100-548",
+    "email": "islam.drissi@gmail.com",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "+213-558-100-548"
+      },
+      {
+        "label": "Work Phone",
+        "flavor": "phone",
+        "value": "+213-558-100-548"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "islam.drissi@gmail.com"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "lot el khir N 187",
+    "city": "Baba Hassen",
+    "region": "Alger",
+    "code": "16081",
+    "country": "Algerie"
+  },
+
+  "projects": [
+  ],
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "zirconias",
+      "url": "https://github.com/zirconias"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "user": "islam mohamed drissi",
+      "url": "https://dz.linkedin.com/in/islamed"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "Developpeur Java EE, 5ans d'experience dans le domaine.",
+
+    "history": [
+      {
+        "employer": "IMAGINE PARTNERS",
+        "url": "https://imaginepartners.com/",
+        "position": "Developpeur Java EE",
+        "summary": "developpement et evolution d'un framework bpmn et deploiment pour plusieurs clients. developpé en **JAVA EE** et **ACTIVITI**",
+        "start": "2016-10",
+        "end":"",
+        "keywords": ["Agile","JAVA","Java EE","JSF","REST","HIBERNATE","FLYWAY","PRIMEFACES","MySQL","REDMINE","javascript","DEVOPS","GITLAB","DOCKER"],
+        "highlights": [
+          "**IMAGINE WORKFLOW** est une solution de bpm qui permet la generation d'applications metiers selon le process crée depuis cette derniere)",
+          "**REFRAFLOW** application qui permet la prise de differentes mesures de l'usine LAFARGE, en utilisant des processus metier.",
+          "**SAPPL** application qui comporte plusieurs processus RH, ACHAT, GESTION.",
+          "Outils: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
+        ]
+      },
+      {
+        "employer": "ICOSNET",
+        "url": "https://icosnet.com/",
+        "position": "Developpeur Java EE",
+        "summary": "developpement, evolution et maintenance d'une application web grand public, un portail qui permet à l'utilisateur de faire des appels voip, sms, e-fax, et messaging (une alternative pour viber à l'echelle nationale.",
+        "start": "2014-06",
+        "end":"2016-09-22",
+        "keywords": ["Agile","JAVA","Java EE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
+        "highlights": [
+          "**Active tracking** application multi-platforme (web, android, integration crm/erp) pour la gestion de stock et la tracabilitée des produits utilisant des tag **RFID** tracés par des lecteurs mobiles, et antennes utilisant RFIDI-EDGE middleware pour rendre l'entrepot de l'entreprise IOT ready.",
+          "**Vazii** multi-platforme application pour VOIP / MESSAGING / E-FAX  (alternative à **viber**)",
+          "Developpement d'applications en interne pour repondre aux differents besoin de l'entreprise, inter-connection entre les CRM, ERP, BILLING, CHARGING, TICKETTING en utilisant une approche **SOA**",
+          "Site web e-commerce pour la vente des produits de l'entreprise, pré-commande et ticketting , utilisant Wordpress",
+          "Outils: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES, ANDROID, RFID, PHP, WORDPRESS**"
+        ]
+      },
+
+      {
+        "employer": "ASSA ASSOCIATES",
+        "url": "https://assa-associates.com",
+        "position": "CRM Consultant/Developer",
+        "summary": "developpeur CRM oracle peoplesoft,  developpement interfaces graphiques, processus et web services.",
+        "start": "2012-08",
+        "end": "2014-06",
+        "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java ee","talend esb","web","tma"],
+        "highlights": [
+          "Maintenance et developpement d'interfaces graphique CRM PEOPLESOFT",
+          "Maintenance et developpement de web services soap   CRM PEOPLESOFT",
+          "Developpement de web services d'integration entre CRM et BILLING BSCS repondant aux exigences de SOA",
+          "Developpement d'application mobile hybrid en utilisant sencha mobile et l'integration avec crm salesforce",
+          "Outils: **Java EE, PEOPLESOFT PEOPLECODE, TALEND ESB, WEB SERVICES, ORACLE 11g, ANDROID, SENCHA MOBILE**"
+        ]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Faculté de science et technologie Settat, Maroc",
+        "title": "Licence professionnelle",
+        "area": "Developpement Java EE",
+        "url": "https://www.fsts.ac.ma/",
+        "start": "2009-09",
+        "end": "2010-07",
+        "grade": "developpement java ee",
+        "summary": "",
+        "curriculum": ["Java ee", "base de donnees oracle", "gestion de projet"]
+      },
+
+      {
+        "institution": "Institut specialise de technologie appliquee, Maroc",
+        "title": "Technicien specialisé",
+        "area": "Recherche et Developpement",
+        "url": "https://http://www.ofpptmaroc.com/ista-bouznika",
+        "start": "2007-09",
+        "end": "2009-06",
+        "grade": "Associate degree, software developer",
+        "summary": "",
+        "curriculum": ["algorithm", "java", ".NET","sgbd"]
+      }
+    ]
+
+  },
+
+  "affiliation": {
+  },
+
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "It challenge",
+        "url": "https://www.facebook.com/events/526574217525405/",
+        "start": "2016-04",
+        "end": "2016-04",
+        "summary": "Smart and passionate people disposed with best tools and approaches taking giant leaps toward creating a business.",
+        "highlights": ["Brain storming", "coach et assiste les eleves."]
+      },
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "Start-hack",
+        "url": "http://start-hack.com",
+        "start": "2016-04",
+        "end": "2016-04",
+        "summary": "A CLEVER SOLUTION TO A TRICKY PROBLEM."
+      },
+      {
+        "flavor": "volunteer",
+        "position": "Mentor",
+        "organization": "Hard Innovation",
+        "url": "https://www.facebook.com/hardinnovation/",
+        "start": "2015-12",
+        "end": "2015-12",
+        "summary": "Giving access to the rich development resources, with the goal of producing a prototype application."
+      }
+    ]
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name":"Java",
+        "level":"advanced",
+        "skills":[
+          "spring / spring boot",
+          "jax-rs jax-ws",
+          "jersy","jms","jpa / hibernate",
+          "android"
+        ]
+      },
+      {
+        "name":"Soa / Middleware",
+        "level":"advanced",
+        "skills":[
+          "esb","talend","mulesoft","microservices","rest/soap","messaging"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "advanced",
+        "skills": [
+          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL", "Oracle", "NoSQL", "elasticsearch"
+        ]
+      },
+      {
+        "name": "Environment / Infrastructure and Ops",
+        "level": "intermediate",
+        "skills": [
+          "Jenkins", "Docker", "spring cloud"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "intermediate",
+        "skills": [
+          "Agile",  "JIRA", "GitHub", "Unified Process", "MS Project"
+        ]
+      }
+    ]
+  },
+
+  "samples": [
+  ],
+
+  "writing": [
+  ],
+
+  "reading": [
+  ],
+
+  "speaking": [
+  ],
+
+  "recognition": [
+  ],
+
+  "references": [
+  ],
+
+  "testimonials": [
+  ],
+
+  "languages": [
+    {
+      "language": "Anglais",
+      "level": "Intermediate",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Francais",
+      "level": "Native speaker",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabe",
+      "level": "Native speaker",
+      "fluency": "Native speaker"
+    }
+  ],
+
+  "extracurricular": [
+  ],
+
+  "governance": [
+  ],
+
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [ "star wars", "ferrets"]
+    },
+    {
+      "name": "sport",
+      "keywords": [ "football", "basketball","tennis"]
+    },
+    {
+      "name": "Technology",
+      "keywords": [ "geeking", "reading"]
+    }
+  ]
+
+
+}
