@@ -10,7 +10,7 @@
   "info": {
     "label": "Developpeur Java EE",
     "characterClass": "Programmer",
-    "brief": "**Developpeur Java EE, 5 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',les middlewares et l'industrialisation de livraison (dev ops).",
+    "brief": "**Developpeur Java EE, 5 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',l'integration et  middlewares (SOA ) ainsi l'industrialisation de livraison (dev ops).",
     "image": "../islam.jpg",
     "quote": "It always seems impossible until it's done."
   },
@@ -89,7 +89,7 @@
         "employer": "ICOSNET",
         "url": "https://icosnet.com/",
         "position": "Developpeur Java EE",
-        "summary": "developpement, evolution et maintenance d'une application web grand public, un portail qui permet à l'utilisateur de faire des appels voip, sms, e-fax, et messaging (une alternative pour viber à l'echelle nationale.",
+        "summary": "developpement, evolution et maintenance d'une application web grand public. Un portail qui permet à l'utilisateur d'effectuer des appels voip, sms, e-fax, et messaging (une alternative pour viber à l'echelle nationale.",
         "start": "2014-06",
         "end":"2016-09-22",
         "keywords": ["Agile","JAVA","Java EE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
@@ -105,7 +105,7 @@
       {
         "employer": "ASSA ASSOCIATES",
         "url": "https://assa-associates.com",
-        "position": "CRM Consultant/Developer",
+        "position": "CRM Consultant/Developer (java, talend esb, peoplesoft crm",
         "summary": "developpeur CRM oracle peoplesoft,  developpement interfaces graphiques, processus et web services.",
         "start": "2012-08",
         "end": "2014-06",
@@ -295,7 +295,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [ "star wars", "ferrets"]
+      "keywords": [ "randonnée"]
     },
     {
       "name": "sport",
@@ -303,7 +303,7 @@
     },
     {
       "name": "Technology",
-      "keywords": [ "geeking", "reading"]
+      "keywords": [ "geeking", "veille technologique"]
     }
   ]
 

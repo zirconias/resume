@@ -8,9 +8,9 @@
   },
 
   "info": {
-    "label": "Experienced Developer",
+    "label": "Java EE Developer",
     "characterClass": "Programmer",
-    "brief": "**Full-stack software developer with 4+ years industry experience** specializing in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games.",
+    "brief": "**Full-stack software developer with 4+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games.",
     "image": "../islam.jpg",
     "quote": "It always seems impossible until it's done."
   },
@@ -79,7 +79,10 @@
         "end":"",
         "keywords": ["Agile","JAVA","Java EE","JSF","REST","HIBERNATE","FLYWAY","PRIMEFACES","MySQL","REDMINE","javascript","DEVOPS","GITLAB","DOCKER"],
         "highlights": [
-          "**IMAGINE WORKFLOW** is a workflow platform application that has BPMN/FORM BUILDER capabilities (**java ee, jsf primefaces, hibernate, flyway, docker, gitlab, devops, mysql, web services**)"
+          "**IMAGINE WORKFLOW** is a workflow platform application that has BPMN/FORM BUILDER capabilities.",
+          "**REFRAFLOW** Web application(using imagine workflow) which allows user to take different measurements of LAFARGE factory.",
+          "**SAPPL** Web application for HR, CRM, WMS.",
+          "Tools: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
         ]
       },
       {
@@ -91,10 +94,11 @@
         "end":"2016-09-22",
         "keywords": ["Agile","JAVA","Java EE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
         "highlights": [
-          "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready(**java ee, android, mysql, jax-ws web services**).",
-          "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX (**java ee, android, mysql, jax-ws web services**)",
+          "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready.",
+          "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX.",
           "Developed tooling and stand-alone applications to connect to other infrastructure products(crm, charing/billing, ticketting).",
-          "Developed and maintained company e-commerce website (wordpress and woocommerce)."
+          "Developed and maintained company e-commerce website (wordpress and woocommerce).",
+          "Tools: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES, ANDROID, RFID, PHP, WORDPRESS**"
         ]
       },
 
@@ -108,8 +112,9 @@
         "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java ee","talend esb","web","tma"],
         "highlights": [
           "Maintained and developed UI and web services for peoplesoft crm(**oracle 10g, tuxedo bea, web services, toad, peoplecode, soapui**).",
-          "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm (**java, esb talend, oracle 11g**).",
-          "Developed hybrid mobile application for med-it attendies (using sencha mobile)."
+          "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm.",
+          "Developed hybrid mobile application for med-it attendies (using sencha mobile).",
+          "Tools: **Java EE, PEOPLESOFT PEOPLECODE, TALEND ESB, WEB SERVICES, ORACLE 11g, ANDROID, SENCHA MOBILE**"
         ]
       }
     ]
@@ -235,7 +240,7 @@
       },
       {
         "name": "Project",
-        "level": "beginner",
+        "level": "intermediate",
         "skills": [
           "Agile",  "JIRA", "GitHub", "Unified Process", "MS Project"
         ]
@@ -291,7 +296,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [ "star wars", "ferrets"]
+      "keywords": [ "hiking"]
     },
     {
       "name": "sport",
@@ -299,7 +304,7 @@
     },
     {
       "name": "Technology",
-      "keywords": [ "geeking", "reading"]
+      "keywords": [ "geeking", "reading tech blogs"]
     }
   ]
 
