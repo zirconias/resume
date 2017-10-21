@@ -1,12 +1,9 @@
 {
-
   "name": "Islam Mohamed Drissi",
-
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.4.0"
   },
-
   "info": {
     "label": "Developpeur Java EE",
     "characterClass": "Programmer",
@@ -14,21 +11,20 @@
     "image": "../islam.jpg",
     "quote": "It always seems impossible until it's done."
   },
-
   "contact": {
     "website": "http://yes.imdrissi.com",
-    "phone": "+213-558-100-548",
+    "phone": "+352-661-141-233",
     "email": "islam.drissi@gmail.com",
     "other": [
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "+213-558-100-548"
+        "value": "+352-661-141-233"
       },
       {
         "label": "Work Phone",
         "flavor": "phone",
-        "value": "+213-558-100-548"
+        "value": "+352-661-141-233"
       },
       {
         "label": "Personal Email",
@@ -37,20 +33,16 @@
       }
     ]
   },
-
   "location": {
-    "address": "lot el khir N 187",
-    "city": "Baba Hassen",
-    "region": "Alger",
-    "code": "16081",
-    "country": "Algerie"
+    "address": "120, route d'echternach",
+    "city": "luxembourg",
+    "region": "",
+    "code": "1453",
+    "country": "LU"
   },
-
   "projects": [
   ],
-
   "social": [
-
     {
       "label": "GitHub",
       "network": "GitHub",
@@ -64,25 +56,64 @@
       "url": "https://dz.linkedin.com/in/islamed"
     }
   ],
-
   "employment": {
-
     "summary": "Developpeur Java EE, 5ans d'experience dans le domaine.",
-
     "history": [
+      {
+        "employer": "SYNECHRON",
+        "url": "http://synechron.com/",
+        "position": "Consultant developpeur",
+        "summary": "",
+        "start": "2017-08",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "ACTIVITI",
+          "REST",
+          "HIBERNATE",
+          "FLYWAY",
+          "PRIMEFACES",
+          "MySQL",
+          "REDMINE",
+          "javascript",
+          "DEVOPS",
+          "GITLAB",
+          "DOCKER"
+        ],
+        "highlights": [
+        ]
+      },
       {
         "employer": "IMAGINE PARTNERS",
         "url": "https://imaginepartners.com/",
         "position": "Developpeur Java EE",
         "summary": "developpement et evolution d'un framework bpmn et deploiment pour plusieurs clients. developpé en **JAVA EE** et **ACTIVITI**",
         "start": "2016-10",
-        "end":"",
-        "keywords": ["Agile","JAVA","Java EE","JSF","REST","HIBERNATE","FLYWAY","PRIMEFACES","MySQL","REDMINE","javascript","DEVOPS","GITLAB","DOCKER"],
+        "end": "2017-07",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "ACTIVITI",
+          "REST",
+          "HIBERNATE",
+          "FLYWAY",
+          "PRIMEFACES",
+          "MySQL",
+          "REDMINE",
+          "javascript",
+          "DEVOPS",
+          "GITLAB",
+          "DOCKER"
+        ],
         "highlights": [
           "**IMAGINE WORKFLOW** est une solution de bpm qui permet la generation d'applications metiers selon le process crée depuis cette derniere)",
           "**REFRAFLOW** application qui permet la prise de differentes mesures de l'usine LAFARGE, en utilisant des processus metier.",
           "**SAPPL** application qui comporte plusieurs processus RH, ACHAT, GESTION.",
-          "Outils: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
+          "Outils: **Java EE, ACTIVITI, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
         ]
       },
       {
@@ -91,8 +122,23 @@
         "position": "Developpeur Java EE",
         "summary": "developpement, evolution et maintenance d'une application web grand public. Un portail qui permet à l'utilisateur d'effectuer des appels voip, sms, e-fax, et messaging (une alternative pour viber à l'echelle nationale.",
         "start": "2014-06",
-        "end":"2016-09-22",
-        "keywords": ["Agile","JAVA","Java EE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
+        "end": "2016-09-22",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "REST",
+          "MySQL",
+          "spring boot",
+          "JIRA",
+          "php",
+          "javascript",
+          "wordpress",
+          "RFID",
+          "mqtt",
+          "middleware"
+        ],
         "highlights": [
           "**Active tracking** application multi-platforme (web, android, integration crm/erp) pour la gestion de stock et la tracabilitée des produits utilisant des tag **RFID** tracés par des lecteurs mobiles, et antennes utilisant RFIDI-EDGE middleware pour rendre l'entrepot de l'entreprise IOT ready.",
           "**Vazii** multi-platforme application pour VOIP / MESSAGING / E-FAX  (alternative à **viber**)",
@@ -101,7 +147,6 @@
           "Outils: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES, ANDROID, RFID, PHP, WORDPRESS**"
         ]
       },
-
       {
         "employer": "ASSA ASSOCIATES",
         "url": "https://assa-associates.com",
@@ -109,7 +154,17 @@
         "summary": "developpeur CRM oracle peoplesoft,  developpement interfaces graphiques, processus et web services.",
         "start": "2012-08",
         "end": "2014-06",
-        "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java ee","talend esb","web","tma"],
+        "keywords": [
+          "Oracle",
+          "Peoplesoft",
+          "sql",
+          "web services/soap",
+          "mobile",
+          "Java ee",
+          "talend esb",
+          "web",
+          "tma"
+        ],
         "highlights": [
           "Maintenance et developpement d'interfaces graphique CRM PEOPLESOFT",
           "Maintenance et developpement de web services soap   CRM PEOPLESOFT",
@@ -119,19 +174,12 @@
         ]
       }
     ]
-
   },
-
   "education": {
-
     "summary": "",
-
     "level": "degree",
-
     "degree": "BSCS",
-
     "history": [
-
       {
         "institution": "Faculté de science et technologie Settat, Maroc",
         "title": "Licence professionnelle",
@@ -141,9 +189,12 @@
         "end": "2010-07",
         "grade": "developpement java ee",
         "summary": "",
-        "curriculum": ["Java ee", "base de donnees oracle", "gestion de projet"]
+        "curriculum": [
+          "Java ee",
+          "base de donnees oracle",
+          "gestion de projet"
+        ]
       },
-
       {
         "institution": "Institut specialise de technologie appliquee, Maroc",
         "title": "Technicien specialisé",
@@ -153,15 +204,17 @@
         "end": "2009-06",
         "grade": "Associate degree, software developer",
         "summary": "",
-        "curriculum": ["algorithm", "java", ".NET","sgbd"]
+        "curriculum": [
+          "algorithm",
+          "java",
+          ".NET",
+          "sgbd"
+        ]
       }
     ]
-
   },
-
   "affiliation": {
   },
-
   "service": {
     "summary": "",
     "history": [
@@ -173,7 +226,10 @@
         "start": "2016-04",
         "end": "2016-04",
         "summary": "Smart and passionate people disposed with best tools and approaches taking giant leaps toward creating a business.",
-        "highlights": ["Brain storming", "coach et assiste les eleves."]
+        "highlights": [
+          "Brain storming",
+          "coach et assiste les eleves."
+        ]
       },
       {
         "flavor": "volunteer",
@@ -195,79 +251,89 @@
       }
     ]
   },
-
   "skills": {
-
     "sets": [
       {
-        "name":"Java",
-        "level":"advanced",
-        "skills":[
+        "name": "Java",
+        "level": "advanced",
+        "skills": [
           "spring / spring boot",
           "jax-rs jax-ws",
-          "jersy","jms","jpa / hibernate",
+          "jersy",
+          "jms",
+          "jpa / hibernate",
           "android"
         ]
       },
       {
-        "name":"Soa / Middleware",
-        "level":"advanced",
-        "skills":[
-          "esb","talend","mulesoft","microservices","rest/soap","messaging"
+        "name": "Soa / Middleware",
+        "level": "advanced",
+        "skills": [
+          "esb",
+          "talend",
+          "mulesoft",
+          "microservices",
+          "rest/soap",
+          "messaging"
         ]
       },
       {
         "name": "JavaScript",
         "level": "advanced",
         "skills": [
-          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js"
+          "Node.js",
+          "Angular.js",
+          "jQuery",
+          "Bootstrap",
+          "React.js"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL", "Oracle", "NoSQL", "elasticsearch"
+          "MySQL",
+          "Oracle",
+          "NoSQL",
+          "elasticsearch"
         ]
       },
       {
         "name": "Environment / Infrastructure and Ops",
         "level": "intermediate",
         "skills": [
-          "Jenkins", "Docker", "spring cloud"
+          "Jenkins",
+          "Docker",
+          "spring cloud"
         ]
       },
       {
         "name": "Project",
         "level": "intermediate",
         "skills": [
-          "Agile",  "JIRA", "GitHub", "Unified Process", "MS Project"
+          "Agile",
+          "JIRA",
+          "GitHub",
+          "Unified Process",
+          "MS Project"
         ]
       }
     ]
   },
-
   "samples": [
   ],
-
   "writing": [
   ],
-
   "reading": [
   ],
-
   "speaking": [
   ],
-
   "recognition": [
   ],
-
   "references": [
   ],
-
   "testimonials": [
   ],
-
   "languages": [
     {
       "language": "Anglais",
@@ -285,27 +351,31 @@
       "fluency": "Native speaker"
     }
   ],
-
   "extracurricular": [
   ],
-
   "governance": [
   ],
-
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [ "randonnée"]
+      "keywords": [
+        "randonnée"
+      ]
     },
     {
       "name": "sport",
-      "keywords": [ "football", "basketball","tennis"]
+      "keywords": [
+        "football",
+        "basketball",
+        "tennis"
+      ]
     },
     {
       "name": "Technology",
-      "keywords": [ "geeking", "veille technologique"]
+      "keywords": [
+        "geeking",
+        "veille technologique"
+      ]
     }
   ]
-
-
 }

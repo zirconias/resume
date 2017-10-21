@@ -1,12 +1,9 @@
 {
-
   "name": "Islam Mohamed Drissi",
-
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.4.0"
   },
-
   "info": {
     "label": "Java EE Developer",
     "characterClass": "Programmer",
@@ -14,21 +11,20 @@
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
-
   "contact": {
     "website": "http://yes.imdrissi.com",
-    "phone": "+213-558-100-548",
+    "phone": "+352-661-141-233",
     "email": "islam.drissi@gmail.com",
     "other": [
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "+213-558-100-548"
+        "value": "+352-661-141-233"
       },
       {
         "label": "Work Phone",
         "flavor": "phone",
-        "value": "+213-770-274-484"
+        "value": "+352-661-141-233"
       },
       {
         "label": "Personal Email",
@@ -37,20 +33,16 @@
       }
     ]
   },
-
   "location": {
-    "address": "lot el khir N 187",
-    "city": "Baba Hassen",
-    "region": "Algiers",
+    "address": "120, route d'echternach",
+    "city": "luxembourg",
+    "region": "",
     "code": "16081",
-    "country": "DZ"
+    "country": "LU"
   },
-
   "projects": [
   ],
-
   "social": [
-
     {
       "label": "GitHub",
       "network": "GitHub",
@@ -64,25 +56,64 @@
       "url": "https://dz.linkedin.com/in/islamed"
     }
   ],
-
   "employment": {
-
-    "summary": "4+ years industry IT and software development experience.",
-
+    "summary": "5 years industry IT and software development experience.",
     "history": [
+      {
+        "employer": "SYNECHRON",
+        "url": "http://synechron.com/",
+        "position": "Consultant developer",
+        "summary": "",
+        "start": "2017-08",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "ACTIVITI",
+          "REST",
+          "HIBERNATE",
+          "FLYWAY",
+          "PRIMEFACES",
+          "MySQL",
+          "REDMINE",
+          "javascript",
+          "DEVOPS",
+          "GITLAB",
+          "DOCKER"
+        ],
+        "highlights": [
+        ]
+      },
       {
         "employer": "IMAGINE PARTNERS",
         "url": "https://imaginepartners.com/",
         "position": "Java ee developer",
         "summary": "developping and maintaining bpmn solution. using **JAVA EE**  and **ACTIVITI**",
         "start": "2016-10",
-        "end":"",
-        "keywords": ["Agile","JAVA","Java EE","JSF","REST","HIBERNATE","FLYWAY","PRIMEFACES","MySQL","REDMINE","javascript","DEVOPS","GITLAB","DOCKER"],
+        "end": "2017-07",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "ACTIVITI",
+          "REST",
+          "HIBERNATE",
+          "FLYWAY",
+          "PRIMEFACES",
+          "MySQL",
+          "REDMINE",
+          "javascript",
+          "DEVOPS",
+          "GITLAB",
+          "DOCKER"
+        ],
         "highlights": [
           "**IMAGINE WORKFLOW** is a workflow platform application that has BPMN/FORM BUILDER capabilities.",
           "**REFRAFLOW** Web application(using imagine workflow) which allows user to take different measurements of LAFARGE factory.",
           "**SAPPL** Web application for HR, CRM, WMS.",
-          "Tools: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
+          "Tools: **Java EE, ACTIVITI, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES **"
         ]
       },
       {
@@ -91,8 +122,23 @@
         "position": "Java ee developer",
         "summary": "In charge of developping web and mobile applications. using mainly **JAVA** programming language and other technologies when it fits our needs (php and cms/ javascript).",
         "start": "2014-06",
-        "end":"2016-09-22",
-        "keywords": ["Agile","JAVA","Java EE","JSF","REST","MySQL","spring boot","JIRA","php","javascript","wordpress","RFID","mqtt","middleware"],
+        "end": "2016-09-22",
+        "keywords": [
+          "Agile",
+          "JAVA",
+          "Java EE",
+          "JSF",
+          "REST",
+          "MySQL",
+          "spring boot",
+          "JIRA",
+          "php",
+          "javascript",
+          "wordpress",
+          "RFID",
+          "mqtt",
+          "middleware"
+        ],
         "highlights": [
           "**Active tracking** is multi-platform application (web / mobile/ crm/ erp) that uses RIFIDI-EDGE middleware to make warehouses IOT ready.",
           "**Vazii** is a multi-platform application that has VOIP / MESSAGING / E-FAX.",
@@ -101,7 +147,6 @@
           "Tools: **Java EE, JSF, PRIMEFACES, HIBERNATE, FLYWAY, DOCKER, GITLAB, MYSQL, WEB SERVICES, ANDROID, RFID, PHP, WORDPRESS**"
         ]
       },
-
       {
         "employer": "ASSA ASSOCIATES",
         "url": "https://assa-associates.com",
@@ -109,7 +154,17 @@
         "summary": "Developer on numerous projects being  oracle peoplesoft crm technical consultant(UI, Webservices,jobs,scripts) and software developer.",
         "start": "2012-08",
         "end": "2014-06",
-        "keywords": ["Oracle","Peoplesoft","sql","web services/soap","mobile","Java ee","talend esb","web","tma"],
+        "keywords": [
+          "Oracle",
+          "Peoplesoft",
+          "sql",
+          "web services/soap",
+          "mobile",
+          "Java ee",
+          "talend esb",
+          "web",
+          "tma"
+        ],
         "highlights": [
           "Maintained and developed UI and web services for peoplesoft crm(**oracle 10g, tuxedo bea, web services, toad, peoplecode, soapui**).",
           "Developed and maintained TALEND ESB jobs to connect poeplesoft to Salesfoce crm.",
@@ -118,19 +173,12 @@
         ]
       }
     ]
-
   },
-
   "education": {
-
     "summary": "",
-
     "level": "degree",
-
     "degree": "BSCS",
-
     "history": [
-
       {
         "institution": "Faculty of Science and Technology Settat,Morocco",
         "title": "Bachelor Information Technology",
@@ -140,9 +188,12 @@
         "end": "2010-07",
         "grade": "Java ee developer",
         "summary": "",
-        "curriculum": ["Java ee", "oracle database", "project management"]
+        "curriculum": [
+          "Java ee",
+          "oracle database",
+          "project management"
+        ]
       },
-
       {
         "institution": "Institute of technology, bouznika,Morocco",
         "title": "Associate degree information Technology",
@@ -152,15 +203,17 @@
         "end": "2009-06",
         "grade": "Associate degree, software developer",
         "summary": "",
-        "curriculum": ["algorithm", "java", ".NET","rdbms"]
+        "curriculum": [
+          "algorithm",
+          "java",
+          ".NET",
+          "rdbms"
+        ]
       }
     ]
-
   },
-
   "affiliation": {
   },
-
   "service": {
     "summary": "",
     "history": [
@@ -172,7 +225,10 @@
         "start": "2016-04",
         "end": "2016-04",
         "summary": "Smart and passionate people disposed with best tools and approaches taking giant leaps toward creating a business.",
-        "highlights": ["refining ideas", "coach and assist students."]
+        "highlights": [
+          "refining ideas",
+          "coach and assist students."
+        ]
       },
       {
         "flavor": "volunteer",
@@ -182,7 +238,9 @@
         "start": "2016-04",
         "end": "2016-04",
         "summary": "A CLEVER SOLUTION TO A TRICKY PROBLEM.",
-        "highlights": ["we provide the necessary tools & materials in order to teach participants useful skills, introduce them to new technologies and push them to innovate in order to make the best hardware project."]
+        "highlights": [
+          "we provide the necessary tools & materials in order to teach participants useful skills, introduce them to new technologies and push them to innovate in order to make the best hardware project."
+        ]
       },
       {
         "flavor": "volunteer",
@@ -192,83 +250,96 @@
         "start": "2015-12",
         "end": "2015-12",
         "summary": "Giving access to the rich development resources, with the goal of producing a prototype application.",
-        "highlights": ["refining ideas.","coach and assist students"]
+        "highlights": [
+          "refining ideas.",
+          "coach and assist students"
+        ]
       }
     ]
   },
-
   "skills": {
-
     "sets": [
       {
-        "name":"Java",
-        "level":"advanced",
-        "skills":[
+        "name": "Java",
+        "level": "advanced",
+        "skills": [
           "spring / spring boot",
           "jax-rs jax-ws",
-          "jersy","jms","jpa / hibernate",
+          "jersy",
+          "jms",
+          "jpa / hibernate",
           "android"
         ]
       },
       {
-        "name":"Soa / Middleware",
-        "level":"advanced",
-        "skills":[
-          "esb","talend","mulesoft","microservices","rest/soap","messaging"
+        "name": "Soa / Middleware",
+        "level": "advanced",
+        "skills": [
+          "esb",
+          "talend",
+          "mulesoft",
+          "microservices",
+          "rest/soap",
+          "messaging"
         ]
       },
       {
         "name": "JavaScript",
         "level": "advanced",
         "skills": [
-          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js"
+          "Node.js",
+          "Angular.js",
+          "jQuery",
+          "Bootstrap",
+          "React.js"
         ]
       },
       {
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL", "Oracle", "NoSQL", "elasticsearch"
+          "MySQL",
+          "Oracle",
+          "NoSQL",
+          "elasticsearch"
         ]
       },
       {
         "name": "Environment / Infrastructure and Ops",
         "level": "intermediate",
         "skills": [
-          "Jenkins", "Docker", "spring cloud"
+          "Jenkins",
+          "Docker",
+          "spring cloud"
         ]
       },
       {
         "name": "Project",
         "level": "intermediate",
         "skills": [
-          "Agile",  "JIRA", "GitHub", "Unified Process", "MS Project"
+          "Agile",
+          "JIRA",
+          "GitHub",
+          "Unified Process",
+          "MS Project"
         ]
       }
     ]
   },
-
   "samples": [
   ],
-
   "writing": [
   ],
-
   "reading": [
   ],
-
   "speaking": [
   ],
-
   "recognition": [
   ],
-
   "references": [
   ],
-
   "testimonials": [
   ],
-
   "languages": [
     {
       "language": "English",
@@ -286,27 +357,31 @@
       "fluency": "Native speaker"
     }
   ],
-
   "extracurricular": [
   ],
-
   "governance": [
   ],
-
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [ "hiking"]
+      "keywords": [
+        "hiking"
+      ]
     },
     {
       "name": "sport",
-      "keywords": [ "football", "basketball","tennis"]
+      "keywords": [
+        "football",
+        "basketball",
+        "tennis"
+      ]
     },
     {
       "name": "Technology",
-      "keywords": [ "geeking", "reading tech blogs"]
+      "keywords": [
+        "geeking",
+        "reading tech blogs"
+      ]
     }
   ]
-
-
 }
