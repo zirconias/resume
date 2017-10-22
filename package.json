@@ -2,7 +2,6 @@
   "name": "Islam-resume",
   "version": "1.0.0",
   "description": "my resume",
-  "main": "index.js",
   "dependencies": {
     "hackmyresume": "^1.8.0",
     "jsonresume-theme-stackoverflow": "1.4.0"
@@ -16,7 +15,7 @@
     "analyze": "hackmyresume ANALYZE resume.json",
     "build": "hackmyresume BUILD resume.json to OUT/resume.all",
     "stack-fr": "hackmyresume BUILD resume_fr.json to OUT/resume_fr.all -t node_modules/jsonresume-theme-stackoverflow",
-    "stack-en": "hackmyresume build resume.json to OUT/resume_en.all -t node_modules/jsonresume-theme-stackoverflow"
+    "stack-en": "hackmyresume build resume_en.json to OUT/resume_en.all -t node_modules/jsonresume-theme-stackoverflow"
   },
   "keywords": [
     "hackmyresume",
