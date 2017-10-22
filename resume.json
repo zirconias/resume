@@ -62,27 +62,23 @@
       {
         "employer": "SYNECHRON",
         "url": "http://synechron.com/",
-        "position": "Consultant developer",
-        "summary": "",
+        "position": "Consultant Java EE developer",
+        "summary": "integrating an ecommerce(priceminister.com) to Rakuten T24 cbs, crm & kyc and compliance",
         "start": "2017-08",
         "keywords": [
           "Agile",
-          "JAVA",
-          "Java EE",
-          "JSF",
-          "ACTIVITI",
-          "REST",
-          "HIBERNATE",
-          "FLYWAY",
-          "PRIMEFACES",
-          "MySQL",
-          "REDMINE",
-          "javascript",
-          "DEVOPS",
+          "Java EE, hibernate, opencsv..",
+          "Spring boot,core, batch, security",
+          "SOAP, REST",
+          "Ms sql",
           "GITLAB",
-          "DOCKER"
+          "JENKINS"
         ],
         "highlights": [
+          "Integrating Ecommerce priceminister.com to Rakuten Core banking system TEMENOS T24",
+          "wallet operations, cashout, cashin, payments",
+          "compliance checks",
+          "Tools: **Java EE, spring, soap / rest web services, mssql, temenos t24, AssureID**"
         ]
       },
       {
