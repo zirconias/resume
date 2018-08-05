@@ -7,24 +7,24 @@
   "info": {
     "label": "Developpeur Java EE",
     "characterClass": "Programmer",
-    "brief": "**Developpeur Java EE, 5 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',l'integration et  middlewares (SOA ) ainsi l'industrialisation de livraison (dev ops).",
+    "brief": "**Developpeur Java EE, +6 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',l'integration et  middlewares (SOA ) ainsi l'industrialisation de livraison (dev ops).",
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
   "contact": {
     "website": "https://zirconias.github.io/resume/",
-    "phone": "+352-661-141-233",
+    "phone": "+33-768-558-043",
     "email": "islam.drissi@gmail.com",
     "other": [
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "+352-661-141-233"
+        "value": "+33-768-558-043"
       },
       {
         "label": "Work Phone",
         "flavor": "phone",
-        "value": "+352-661-141-233"
+        "value": "+33-768-558-043"
       },
       {
         "label": "Personal Email",
@@ -34,10 +34,10 @@
     ]
   },
   "location": {
-    "address": "120, route d'echternach",
+    "address": "108, rue de beggen",
     "city": "luxembourg",
     "region": "",
-    "code": "1453",
+    "code": "1220",
     "country": "LU"
   },
   "projects": [

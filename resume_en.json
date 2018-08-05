@@ -7,37 +7,37 @@
   "info": {
     "label": "Java EE Developer",
     "characterClass": "Programmer",
-    "brief": "**Full-stack software developer with 4+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games.",
+    "brief": "**Full-stack software developer with 6+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games.",
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
   "contact": {
     "website": "https://zirconias.github.io/resume/",
-    "phone": "+352-661-141-233",
+    "phone": "+33-768-558-043",
     "email": "islam.drissi@gmail.com",
     "other": [
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "+352-661-141-233"
+        "value": "+33-768-558-043"
       },
       {
         "label": "Work Phone",
         "flavor": "phone",
-        "value": "+352-661-141-233"
+        "value": "+33-768-558-043"
       },
       {
         "label": "Personal Email",
         "flavor": "email",
-        "value": "i.slam.drissi@gmail.com"
+        "value": "islam.drissi@gmail.com"
       }
     ]
   },
   "location": {
-    "address": "120, route d'echternach",
+    "address": "108, rue de beggen",
     "city": "luxembourg",
     "region": "",
-    "code": "16081",
+    "code": "1220",
     "country": "LU"
   },
   "projects": [
