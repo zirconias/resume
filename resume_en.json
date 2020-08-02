@@ -5,9 +5,9 @@
     "version": "0.4.0"
   },
   "info": {
-    "label": "Java EE Developer",
+    "label": "IT Consultant, certified scrum master, team lead",
     "characterClass": "Programmer",
-    "brief": "**Full-stack software developer with 6+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers DZ, Islam enjoys hiking, cinema and video games.",
+    "brief": "**Software developer with 8+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers Algeria, Islam enjoys hiking, cinema and video games.",
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
@@ -19,7 +19,7 @@
       {
         "label": "Home Phone",
         "flavor": "phone",
-        "value": "+33-768-558-043"
+        "value": "+352-661-141-233"
       },
       {
         "label": "Work Phone",
@@ -34,10 +34,10 @@
     ]
   },
   "location": {
-    "address": "108, rue de beggen",
+    "address": "219, rue de beggen",
     "city": "luxembourg",
     "region": "",
-    "code": "1220",
+    "code": "1221",
     "country": "LU"
   },
   "projects": [
@@ -57,14 +57,41 @@
     }
   ],
   "employment": {
-    "summary": "5 years industry IT and software development experience.",
+    "summary": "8 years industry IT and software development experience.",
     "history": [
+      {
+        "employer": "OKIDO",
+        "url": "https://www.linkedin.com/company/okido/",
+        "position": "Consultant Team lead & scrum master, Apache camel/Redhat fuse itegrator",
+        "summary": "Client: **Raiffeisen** \n **Project PSD2**: Red hat Fuse integrator | Implementing regulatory **PSD2** with **luxhub**.\n **Project Common-app**: Red hat Fuse integrator | support and bug fixes.\n **Project Advisory app**: Team lead, Scrum master and developer | supporting team getting things done, following Agile scrum practices.",
+        "start": "2018-10",
+        "keywords": [
+          "Agile",
+          "scrum",
+          "Jakarta EE, spring boot",
+          "Spring boot, core, batch, security",
+          "SOAP, REST",
+          "MariaDB",
+          "Gitlab",
+          "Jenkins",
+          "SonarQube",
+          "Openshift",
+          "Docker"
+        ],
+        "highlights": [
+          "integration using red hat fuse & spring boot",
+          "implementing luxhub's PSD2 interfaces, exposing restful services through 3scale to other banks",
+          "design and development of web services using spring boot and redhat fuse framework",
+          "Outils: **Scrum agile, Red hat fuse, spring & spring boot, rest web services, mariadb, temenos t24, redhat sso, mariaDb**"
+        ]
+      },
       {
         "employer": "SYNECHRON",
         "url": "http://synechron.com/",
         "position": "Consultant Java EE developer",
         "summary": "integrating an ecommerce(priceminister.com) to Rakuten T24 cbs, crm & kyc and compliance",
         "start": "2017-08",
+        "end": "2018-09",
         "keywords": [
           "Agile",
           "Java EE, hibernate, opencsv..",
@@ -78,7 +105,7 @@
           "Integrating Ecommerce priceminister.com to Rakuten Core banking system TEMENOS T24",
           "wallet operations, cashout, cashin, payments",
           "compliance checks",
-          "Tools: **Java EE, spring, soap / rest web services, mssql, temenos t24, AssureID**"
+          "Tools: **Java EE, spring & spring boot, soap/rest web services, mssql, temenos t24, AssureID**"
         ]
       },
       {
@@ -176,13 +203,27 @@
     "degree": "BSCS",
     "history": [
       {
+        "institution": "Scrum",
+        "title": "Scrum master psm 1 certification",
+        "area": "Scrum agile",
+        "url": "https://www.scrum.org/",
+        "start": "2020",
+        "end": "2020",
+        "grade": "Scrum master, psm1",
+        "summary": "",
+        "curriculum": [
+          "Agile",
+          "Scrum"
+        ]
+      },
+      {
         "institution": "Faculty of Science and Technology Settat,Morocco",
         "title": "Bachelor Information Technology",
         "area": "JavaEE developer",
         "url": "https://www.fsts.ac.ma/",
         "start": "2009-09",
         "end": "2010-07",
-        "grade": "Java ee developer",
+        "grade": "Bachelor in Web and Java ee programming",
         "summary": "",
         "curriculum": [
           "Java ee",
@@ -192,7 +233,7 @@
       },
       {
         "institution": "Institute of technology, bouznika,Morocco",
-        "title": "Associate degree information Technology",
+        "title": "Associate degree information Technology, Java programming",
         "area": "software developer",
         "url": "https://http://www.ofpptmaroc.com/ista-bouznika",
         "start": "2007-09",
@@ -280,8 +321,8 @@
         ]
       },
       {
-        "name": "JavaScript",
-        "level": "advanced",
+        "name": "Frontend",
+        "level": "intermediate",
         "skills": [
           "Node.js",
           "Angular.js",
@@ -294,18 +335,21 @@
         "name": "Database",
         "level": "intermediate",
         "skills": [
-          "MySQL",
+          "MySQL/MariaDB",
           "Oracle",
-          "NoSQL",
-          "elasticsearch"
+          "NoSQL, MongoDB",
+          "elk"
         ]
       },
       {
-        "name": "Environment / Infrastructure and Ops",
-        "level": "intermediate",
+        "name": "DevOps",
+        "level": "advanced",
         "skills": [
           "Jenkins",
+          "Gitlab",
           "Docker",
+          "Kubernetes",
+          "Openshift",
           "spring cloud"
         ]
       },
@@ -313,11 +357,9 @@
         "name": "Project",
         "level": "intermediate",
         "skills": [
-          "Agile",
-          "JIRA",
-          "GitHub",
-          "Unified Process",
-          "MS Project"
+          "Agile", 
+          "Scrum",
+          "Unified Process"          
         ]
       }
     ]

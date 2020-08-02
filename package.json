@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "my resume",
   "dependencies": {
-    "hackmyresume": "^1.8.0",
+    "hackmyresume": "v1.9.0-beta",
     "jsonresume-theme-stackoverflow": "1.4.0"
   },
   "repository": {

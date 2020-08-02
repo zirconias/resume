@@ -5,9 +5,9 @@
     "version": "0.4.0"
   },
   "info": {
-    "label": "Developpeur Java EE",
+    "label": "asdfasdf Developpeur Java EE",
     "characterClass": "Programmer",
-    "brief": "**Developpeur Java EE, +6 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',l'integration et  middlewares (SOA ) ainsi l'industrialisation de livraison (dev ops).",
+    "brief": "**asdfas Developpeur Java EE, +6 ans d'experience dans le domaine.** Avide de la nouvelle technologie, je m'interesse au developpement d'application 'cloud ready',l'integration et  middlewares (SOA ) ainsi l'industrialisation de livraison (dev ops).",
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
@@ -57,14 +57,14 @@
     }
   ],
   "employment": {
-    "summary": "Developpeur Java EE, 5ans d'experience dans le domaine.",
+    "summary": "Developpeur Java EE, 8 ans d'experience dans le domaine.",
     "history": [
       {
-        "employer": "SYNECHRON",
-        "url": "http://synechron.com/",
-        "position": "Consultant developpeur Java  EE",
+        "employer": "OKIDO",
+        "url": "https://www.linkedin.com/company/okido/",
+        "position": "Consultant Team lead & scrum master, Integrateur apache camel/redhat fuse",
         "summary": "integration de priceminister avec le system bancaire Rakuten, CRM, KYC, CBC T24, Compliance",
-        "start": "2017-08",
+        "start": "2018-10",
         "keywords": [
           "Agile",
           "Java EE, hibernate, opencsv..",
@@ -78,7 +78,30 @@
           "integration du site ecommerce priceminister.com au system bancaire Rakuten TEMENOS T24",
           "verification et validation compliance",
           "gestion des wallets, cashout, cashin",
-          "Outils: **Java EE, spring, soap / rest web services, mssql, temenos t24, AssureID**"
+          "Outils: **Java EE, spring & spring boot, soap/rest web services, mssql, temenos t24, AssureID**"
+        ]
+      },
+      {
+        "employer": "SYNECHRON",
+        "url": "http://synechron.com/",
+        "position": "Consultant developpeur Java  EE",
+        "summary": "integration de priceminister avec le system bancaire Rakuten, CRM, KYC, CBC T24, Compliance",
+        "start": "2017-08",
+        "end": "2018-09",
+        "keywords": [
+          "Agile",
+          "Java EE, hibernate, opencsv..",
+          "Spring boot,core, batch, security",
+          "SOAP, REST",
+          "Ms sql",
+          "GITLAB",
+          "JENKINS"
+        ],
+        "highlights": [
+          "integration du site ecommerce priceminister.com au system bancaire Rakuten TEMENOS T24",
+          "verification et validation compliance",
+          "gestion des wallets, cashout, cashin",
+          "Outils: **Java EE, spring & spring boot, soap/rest web services, mssql, temenos t24, AssureID**"
         ]
       },
       {
