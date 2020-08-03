@@ -7,7 +7,7 @@
   "info": {
     "label": "IT Consultant, certified scrum master, team lead",
     "characterClass": "Programmer",
-    "brief": "**Software developer with 8+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers Algeria, Islam enjoys hiking, cinema and video games.",
+    "brief": "**Software developer and team lead with 8+ years industry experience** trying to be specialized in cloud-driven web applications and middleware. A native of Algiers Algeria, Islam enjoys hiking, cinema and video games.",
     "image": "../islam.png",
     "quote": "It always seems impossible until it's done."
   },
@@ -62,7 +62,7 @@
       {
         "employer": "OKIDO",
         "url": "https://www.linkedin.com/company/okido/",
-        "position": "Consultant Team lead & scrum master, Apache camel/Redhat fuse itegrator",
+        "position": "Consultant Team lead & scrum master, Apache camel/Redhat fuse integrator",
         "summary": "Client: **Raiffeisen** \n **Project PSD2**: Red hat Fuse integrator | Implementing regulatory **PSD2** with **luxhub**.\n **Project Common-app**: Red hat Fuse integrator | support and bug fixes.\n **Project Advisory app**: Team lead, Scrum master and developer | supporting team getting things done, following Agile scrum practices.",
         "start": "2018-10",
         "keywords": [
